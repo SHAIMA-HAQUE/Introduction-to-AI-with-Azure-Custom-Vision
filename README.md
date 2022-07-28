@@ -46,9 +46,9 @@ The instructions for this workshop assume you are using [Visual Studio Code](htt
 
 ## The workshop
 
-- [Part 0: Install and configure tools](./setup.md)
-- [Part 1: Train your model](./train.md)
-- [Part 2: Test your model](./predict.md)
+- [Part 0: Install and configure tools](./ml-model-custom-vision/setup.md)
+- [Part 1: Train your model](./ml-model-custom-vision/train.md)
+- [Part 2: Test your model](./ml-model-custom-vision/predict.md)
 
 ## Feedback
 
