@@ -1,7 +1,5 @@
 # Introduction-to-AI-with-Azure-Custom-Vision
 
-# Build a Machine Learning Model using Azure Custom Vision
-
 ## Overview
 
 Azure [Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/?WT.mc_id=academic-49102-chrhar) allows you to create models which can classify and detect items in images. You could use this to detect a breed of dog, if someone is wearing a helmet, or the presence of other features. While this could be done by using code and manually processing the images, Custom Vision provides a web-based interface and tooling to streamline the process. No prior knowledge of machine learning or math is required!
@@ -19,7 +17,7 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 
 ## What you'll build with CustomVision.ai
 
-![demo image](./images/demo.png)
+![demo image](ml-model-custom-vision\images\demo.png)
 
 ## Prerequisites
 
